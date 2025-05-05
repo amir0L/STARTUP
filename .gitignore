@@ -8,7 +8,7 @@ dbQuiz7.sql
 
 #model mld mysql space
 *.mwb
-*.back
+Idont.mwb.bak
 
 #scripts of sql cods
 insertion_test.sql
