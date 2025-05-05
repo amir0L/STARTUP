@@ -1,0 +1,18 @@
+#imgs of digrames eer mld
+*.jpg
+*.png
+
+#versions of data bases
+dbQuiz6.sql
+dbQuiz7.sql
+
+#model mld mysql space
+*.mwb
+*.back
+
+#scripts of sql cods
+insertion_test.sql
+shows-test.sql
+
+#digram starUml
+version++.mdj

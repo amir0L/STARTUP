@@ -1,0 +1,5 @@
+exerciceId,matiereName,anneeScolaire,trimestre,unitNumber,scoreExo,levlExo
+1,Mathematics,1,1,1,NULL,1
+2,Mathematics,1,1,2,NULL,1
+3,Mathematics,1,2,4,NULL,1
+4,Mathematics,1,3,7,NULL,1
