@@ -5,6 +5,7 @@
 #versions of data bases
 dbQuiz6.sql
 dbQuiz7.sql
+testUP.sql
 
 #model mld mysql space
 *.mwb

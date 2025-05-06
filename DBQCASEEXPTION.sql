@@ -268,4 +268,4 @@ CREATE TABLE `students_sontFaibles_matieres` (
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-05-06 19:25:49
+-- Dump completed on 2025-05-06 19:30:42

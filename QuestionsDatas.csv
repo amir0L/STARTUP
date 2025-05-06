@@ -18,3 +18,43 @@ questionId,exerciceId,contentQuestion,type,anneeScolaire,trimestre,unitNumber
 17,4," إذا كان 5 أقلام تُكلف 75 دينارًا، فما تكلفة 8 أقلام من نفس النوع؟",1,1,3,7
 18,4,"إذا كانت سرعة سيارة 80 كم/ساعة، فما المسافة التي تقطعها في 3 ساعات؟",1,1,3,7
 19,4,"إذا كان 6 صناديق تحتوي على 48 كتابًا، فكم كتابًا تحتوي 9 صناديق من نفس النوع؟",1,1,3,7
+20,5,"أين نزلت سورة الطارق?",1,1,1,1
+21,5,"كم عدد آيات سورة الطارق؟",1,1,1,1
+22,5,"ما المقصود بـ الطارق في قوله تعالى: "والسماء والطارق"؟",1,1,1,1
+23,5,"ما الرسالة الأساسية في سورة الطارق؟",1,1,1,1
+24,5,"ما معنى كلمة رويدا",1,1,1,1
+25,6,"الإيمان بالله",1,1,1,8
+26,6,"ماهو الإيمان لغة؟",1,1,1,7
+27,6,"أثر الإيمان بالله على سلوكي مع الله",1,1,1,7
+28,6,"أثر الإيمان بالله على سلوكي مع نفسي",1,1,1,7
+29,6,"أثر الإيمان بالله على سلوكي مع الناس",1,1,1,7
+30,7,"" chat dort paisiblement." -Chat est:",1,1,1,1
+31,7,""Elle court vite." - Vite est:",1,1,1,1
+32,7,"___ arbre est grand.",1,1,1,1
+33,7,"J'ai mangé ___ pommes.",1,1,1,1
+34,7,"Nous ___ un chat.",1,1,1,1
+35,8,"Tu ___ un stylo bleu.",1,1,1,1
+36,8,"le mot opposé: Lent →",1,1,1,1
+37,8,"le mot opposé: Jour →",1,1,1,1
+38,8,"Karim a 12 ans. Il habite à Oran. Son sport préféré est le handball. -Quel âge a Karim?",1,1,1,1
+39,8,"Karim a 12 ans. Il habite à Oran. Son sport préféré est le handball. -Où habite-t-il?",1,1,1,1
+40,9,"___ suis algérien.",1,1,2,1
+41,9,"___ allons à l’école.",1,1,2,1
+42,9,"Hier, j’___ mangé une pizza",1,1,2,1
+43,9,"Elles ___ fini leurs devoirs.",1,1,2,1
+44,9,"Il soigne les animaux, c’est un ___.",1,1,2,1
+45,10,"Elle enseigne à l’école, c’est une ___ .",1,1,2,1
+46,10,"___ maison est grande.",1,1,2,1
+47,10,"___ père travaille à l’hôpital.",1,1,2,1
+48,10,"Une ___ robe.",1,1,2,1
+49,10,"Des ___ arbres.",1,1,2,1
+50,11,"Je ___ donne le livre.",1,1,3,1
+51,11,"Elle ___ parle souvent.",1,1,3,1
+52,11,"Demain, je ___ à la piscine.",1,1,3,1
+53,11,"Tu ___ bientôt ton anniversaire.",1,1,3,1
+54,11,"On voit avec les ___.",1,1,3,1
+55,12,"On entend avec les ___.",1,1,3,1
+56,12,"Il est ___ grand.",1,1,3,1
+57,12,"Elle est ___ belle",1,1,3,1
+58,12,"Hier, Ahmed a visité le musée avec sa classe. Il a vu des tableaux et des statues. -Où est allé Ahmed ?",1,1,3,1
+59,12,"Hier, Ahmed a visité le musée avec sa classe. Il a vu des tableaux et des statues. -Qu’a-t-il vu ?",1,1,3,1
